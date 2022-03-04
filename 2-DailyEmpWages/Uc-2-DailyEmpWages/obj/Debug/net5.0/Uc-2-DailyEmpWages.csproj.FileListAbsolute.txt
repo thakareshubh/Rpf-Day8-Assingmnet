@@ -1,0 +1,16 @@
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\bin\Debug\net5.0\Uc-2-DailyEmpWages.exe
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\bin\Debug\net5.0\Uc-2-DailyEmpWages.deps.json
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\bin\Debug\net5.0\Uc-2-DailyEmpWages.runtimeconfig.json
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\bin\Debug\net5.0\Uc-2-DailyEmpWages.runtimeconfig.dev.json
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\bin\Debug\net5.0\Uc-2-DailyEmpWages.dll
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\bin\Debug\net5.0\Uc-2-DailyEmpWages.pdb
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.csproj.AssemblyReference.cache
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.AssemblyInfoInputs.cache
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.AssemblyInfo.cs
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.csproj.CoreCompileInputs.cache
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.dll
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\refint\Uc-2-DailyEmpWages.dll
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.pdb
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\Uc-2-DailyEmpWages.genruntimeconfig.cache
+D:\.net\Uc-2-DailyEmpWages\Uc-2-DailyEmpWages\obj\Debug\net5.0\ref\Uc-2-DailyEmpWages.dll
