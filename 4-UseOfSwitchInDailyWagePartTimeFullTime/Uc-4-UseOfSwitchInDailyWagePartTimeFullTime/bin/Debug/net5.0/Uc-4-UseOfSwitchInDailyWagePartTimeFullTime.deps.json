@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc-4-UseOfSwitchInDailyWagePartTimeFullTime/1.0.0": {
+        "runtime": {
+          "Uc-4-UseOfSwitchInDailyWagePartTimeFullTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc-4-UseOfSwitchInDailyWagePartTimeFullTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
