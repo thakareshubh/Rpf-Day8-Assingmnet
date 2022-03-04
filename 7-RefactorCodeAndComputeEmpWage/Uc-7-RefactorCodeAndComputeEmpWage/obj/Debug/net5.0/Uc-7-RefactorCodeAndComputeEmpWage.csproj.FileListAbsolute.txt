@@ -1,0 +1,16 @@
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.csproj.AssemblyReference.cache
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.AssemblyInfoInputs.cache
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.AssemblyInfo.cs
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.csproj.CoreCompileInputs.cache
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\bin\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.exe
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\bin\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.deps.json
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\bin\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.runtimeconfig.json
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\bin\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.runtimeconfig.dev.json
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\bin\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.dll
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\bin\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.pdb
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.dll
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\refint\Uc-7-RefactorCodeAndComputeEmpWage.dll
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.pdb
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\Uc-7-RefactorCodeAndComputeEmpWage.genruntimeconfig.cache
+D:\.net\Uc-7-RefactorCodeAndComputeEmpWage\Uc-7-RefactorCodeAndComputeEmpWage\obj\Debug\net5.0\ref\Uc-7-RefactorCodeAndComputeEmpWage.dll
