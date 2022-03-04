@@ -1,0 +1,16 @@
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\bin\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.exe
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\bin\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.deps.json
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\bin\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.runtimeconfig.json
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\bin\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.runtimeconfig.dev.json
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\bin\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.dll
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\bin\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.pdb
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.csproj.AssemblyReference.cache
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.AssemblyInfoInputs.cache
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.AssemblyInfo.cs
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.csproj.CoreCompileInputs.cache
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.dll
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\refint\Uc-3-DailyPartAndFullTimeWage.dll
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.pdb
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\Uc-3-DailyPartAndFullTimeWage.genruntimeconfig.cache
+D:\.net\Uc-3-DailyPartAndFullTimeWage\Uc-3-DailyPartAndFullTimeWage\obj\Debug\net5.0\ref\Uc-3-DailyPartAndFullTimeWage.dll
