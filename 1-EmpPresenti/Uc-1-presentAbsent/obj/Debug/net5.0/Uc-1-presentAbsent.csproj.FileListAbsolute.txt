@@ -1,0 +1,16 @@
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\bin\Debug\net5.0\Uc-1-presentAbsent.exe
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\bin\Debug\net5.0\Uc-1-presentAbsent.deps.json
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\bin\Debug\net5.0\Uc-1-presentAbsent.runtimeconfig.json
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\bin\Debug\net5.0\Uc-1-presentAbsent.runtimeconfig.dev.json
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\bin\Debug\net5.0\Uc-1-presentAbsent.dll
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\bin\Debug\net5.0\Uc-1-presentAbsent.pdb
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.csproj.AssemblyReference.cache
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.AssemblyInfoInputs.cache
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.AssemblyInfo.cs
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.csproj.CoreCompileInputs.cache
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.dll
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\refint\Uc-1-presentAbsent.dll
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.pdb
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\Uc-1-presentAbsent.genruntimeconfig.cache
+D:\.net\Uc-1-presentAbsent\Uc-1-presentAbsent\obj\Debug\net5.0\ref\Uc-1-presentAbsent.dll
