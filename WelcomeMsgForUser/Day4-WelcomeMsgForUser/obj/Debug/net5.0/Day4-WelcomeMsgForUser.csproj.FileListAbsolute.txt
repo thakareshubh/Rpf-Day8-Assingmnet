@@ -1,0 +1,16 @@
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\bin\Debug\net5.0\Day4-WelcomeMsgForUser.exe
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\bin\Debug\net5.0\Day4-WelcomeMsgForUser.deps.json
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\bin\Debug\net5.0\Day4-WelcomeMsgForUser.runtimeconfig.json
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\bin\Debug\net5.0\Day4-WelcomeMsgForUser.runtimeconfig.dev.json
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\bin\Debug\net5.0\Day4-WelcomeMsgForUser.dll
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\bin\Debug\net5.0\Day4-WelcomeMsgForUser.pdb
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.csproj.AssemblyReference.cache
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.AssemblyInfoInputs.cache
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.AssemblyInfo.cs
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.csproj.CoreCompileInputs.cache
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.dll
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\refint\Day4-WelcomeMsgForUser.dll
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.pdb
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\Day4-WelcomeMsgForUser.genruntimeconfig.cache
+D:\.net\Day4-WelcomeMsgForUser\Day4-WelcomeMsgForUser\obj\Debug\net5.0\ref\Day4-WelcomeMsgForUser.dll
