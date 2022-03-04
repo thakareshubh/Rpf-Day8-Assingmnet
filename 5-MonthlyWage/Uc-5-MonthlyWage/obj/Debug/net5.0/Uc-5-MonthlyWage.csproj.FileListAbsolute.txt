@@ -1,0 +1,16 @@
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\bin\Debug\net5.0\Uc-5-MonthlyWage.exe
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\bin\Debug\net5.0\Uc-5-MonthlyWage.deps.json
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\bin\Debug\net5.0\Uc-5-MonthlyWage.runtimeconfig.json
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\bin\Debug\net5.0\Uc-5-MonthlyWage.runtimeconfig.dev.json
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\bin\Debug\net5.0\Uc-5-MonthlyWage.dll
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\bin\Debug\net5.0\Uc-5-MonthlyWage.pdb
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.csproj.AssemblyReference.cache
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.AssemblyInfoInputs.cache
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.AssemblyInfo.cs
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.csproj.CoreCompileInputs.cache
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.dll
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\refint\Uc-5-MonthlyWage.dll
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.pdb
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\Uc-5-MonthlyWage.genruntimeconfig.cache
+D:\.net\Uc-5-MonthlyWage\Uc-5-MonthlyWage\obj\Debug\net5.0\ref\Uc-5-MonthlyWage.dll
